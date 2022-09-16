@@ -1,0 +1,1 @@
+welcome<?php /**PATH C:\xampp\htdocs\minamor2os\resources\views/user/profile.blade.php ENDPATH**/ ?>
